@@ -1,0 +1,12 @@
+Stock Price Prediction Using Python & Machine Learning (LSTM). 
+In this project you will learn how to create an artificial neural network called Long Short Term Memory to predict the future price of apple stock.
+
+
+
+TINGO
+NOTE: Once you create an account, your account with be assigned an 
+authentication token. This token is used in place of your username & 
+password throughout the API, 
+so keep it safe like you would your password.
+
+
